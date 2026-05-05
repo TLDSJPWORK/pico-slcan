@@ -71,7 +71,7 @@ CAN FD Interfaceを実現します。
 - [MCP2526FDデータシート](https://ww1.microchip.com/downloads/aemDocuments/documents/OTH/ProductDocuments/DataSheets/20005284A.pdf) 
 <br><br>
 
-- [pico-slcan-soft]()
+- [pico-slcan-soft](https://github.com/TLDSJPWORK/pico-slcan-soft)
 - [SavvyCAN pico-slcan対応改造版](https://github.com/TLDSJPWORK/SavvyCAN/releases/tag/V221_JPWORKS_V100)
 
 ### 本製品に対する相談先
