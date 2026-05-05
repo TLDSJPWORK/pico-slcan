@@ -1,5 +1,7 @@
 # pico-slcan
-Low-Cost CAN FD Interface with Raspberry Pi Pico and Default Drivers
+RP2040搭載 Low‑Cost CAN FDインターフェース（Windows標準ドライバ対応）
+
+Low‑Cost CAN FD Interface Powered by RP2040 (Uses Windows Built‑in Drivers)
 
 ### 特徴
 CAN FDは車載・産業用途で広く使われていますが、
@@ -11,7 +13,7 @@ CAN FDは車載・産業用途で広く使われていますが、
 といった課題があります。本プロダクトでは、
 
 - MCP2518 + MCP2562FD（SPI接続CAN FDコントローラ）
-- Raspberry Pi Pico（USBデバイス機能搭載）
+- RP2040（USBデバイス機能搭載｜Raspberry Pi Picoの主要チップ）
 
 を組み合わせることで、
 
@@ -28,7 +30,7 @@ CAN FD Interfaceを実現します。
 - UARTベースのUSB-シリアル変換を使用しない
 - CAN FDフレーム転送時のボトルネックを回避しやすい
 
-というメリットをRaspberry Pi PicoのUSB CDC（仮想COM）動作により狙っております。
+というメリットをRP2040のUSB CDC（仮想COM）動作により狙っております。
 
 ### 製品
 ![TopImage](/docs/pico-slcan_Top_Image.png)
