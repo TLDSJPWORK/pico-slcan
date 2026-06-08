@@ -55,8 +55,8 @@ CAN FD Interfaceを実現します。
 
 ### 販売ページ
 
-スイッチサイエンス様にて委託販売を準備中
-<!-- - [スイッチサイエンス様](https://ssci.to/10018)-->
+スイッチサイエンス様にて委託販売中
+- [スイッチサイエンス様](https://ssci.to/11167)
 
 ### 資料
 - [サポートページ](https://github.com/TLDSJPWORK/pico-slcan)
