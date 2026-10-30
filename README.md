@@ -52,6 +52,7 @@ CAN FD Interfaceを実現します。
 - 出荷時は[CANの汎用計測用ソフト]()を書き込み済
   - 拡張対応した[SavvyCAN](https://github.com/TLDSJPWORK/SavvyCAN/releases/tag/V221_JPWORKS_V100)にて利用可能です
   - 動作状況をLCDにて確認できます
+- [PCで最初のCAN FDフレームを表示する（note）](https://note.com/tldsjpwork/n/n38c8d77d4689)
 
 ### 販売ページ
 
